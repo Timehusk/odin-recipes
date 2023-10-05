@@ -1,1 +1,2 @@
 # odin-recipes
+So, this is my first ODP project where I'll create a simple website about recipees using simple HTML! I am also learning how to use Git and GitHub, and at the end of this I hope I'll learned something new.
